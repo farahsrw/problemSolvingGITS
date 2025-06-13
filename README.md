@@ -5,7 +5,7 @@ Output soal 1:
 ![output_soal1](https://github.com/user-attachments/assets/4a7d576e-549d-42fa-b130-020ec9b776a8)
 
 Output soal 2:
-![outpt_soal2]("https://github.com/user-attachments/assets/858824ac-d018-428c-9130-c193d4469069")
+<img width="491" alt="output_soal2" src="https://github.com/user-attachments/assets/85a138a5-04d3-4c5c-80d5-ba9fd06b3c61" />
 
 Output soal 3:
 ![output_soal3](https://github.com/user-attachments/assets/63a0291c-9745-4b45-939f-e976eb70ed2a)
