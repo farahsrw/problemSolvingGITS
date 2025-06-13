@@ -5,10 +5,10 @@ Output soal 1:
 ![output_soal1](https://github.com/user-attachments/assets/4a7d576e-549d-42fa-b130-020ec9b776a8)
 
 Output soal 2:
-<img width="491" alt="outpt_soal2" src="https://github.com/user-attachments/assets/858824ac-d018-428c-9130-c193d4469069" />
+![outpt_soal2]("https://github.com/user-attachments/assets/858824ac-d018-428c-9130-c193d4469069")
 
 Output soal 3:
 ![output_soal3](https://github.com/user-attachments/assets/63a0291c-9745-4b45-939f-e976eb70ed2a)
 
 Kompleksitas soal 3:
-
+Fungsi memiliki kompleksitas sebesar O(n), di mana n adalah panjang string input. Secara garis besar, fungsi ini bekerja dengan memeriksa setiap karakter dalam string satu per satu menggunakan perulangan. Setiap karakter dicek apakah merupakan kurung buka ((, [, {) atau kurung tutup (), ], }). Jika itu kurung buka, maka karakter disimpan dalam struktur stack, dan jika itu kurung tutup, program akan mengecek apakah ada pasangan kurung buka yang sesuai di bagian atas stack. Jika tidak cocok, maka fungsi langsung mengembalikan “NO”. Kasus terburuk adalah jika seluruh karakter dalam input adalah kurung buka, maka semua karakter akan dimasukkan ke dalam stack, menghasilkan penggunaan ruang sebesar O(n).
