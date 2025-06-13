@@ -82,6 +82,7 @@ func rankOutput(rankedArr, gitsArr array, jumRank, jumGits int) {
 	var i, j, rank int
 	var found bool
 
+	fmt.Print("Maka hasil: ")
 	for i = 0; i < jumGits; i++ {
 		j = 0
 		found = false
